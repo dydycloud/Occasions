@@ -5,8 +5,11 @@ gem 'devise'
 gem 'mongoid'
 gem 'mongoid_spacial'
 gem 'haml'
+gem 'haml-rails'
 gem 'bson_ext'
 gem 'rails-backbone'
+gem 'turn'
+gem 'minitest'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
