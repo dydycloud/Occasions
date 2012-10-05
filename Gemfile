@@ -36,6 +36,8 @@ group :test, :development do
   gem 'factory_girl_rails'
   gem 'database_cleaner'
   gem 'jasmine'
+  gem 'hpricot'
+  gem 'ruby_parser'
 end
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
